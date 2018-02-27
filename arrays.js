@@ -1,5 +1,5 @@
-var grilledCheeseIngredients = [
-  'bread',
+var chocolateBars = [
+  'smickers',
   'mild cheese',
   'sharp cheese',
   'butter',
