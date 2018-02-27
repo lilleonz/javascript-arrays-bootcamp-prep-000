@@ -5,11 +5,4 @@ var chocolateBars = [
   'skittles'
 ]
 
-var tomatoSauceIngredients = [
-  'tomato',
-  'garlic',
-  'olive oil',
-  'basil',
-  'oregano'
-]
 
