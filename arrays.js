@@ -1,10 +1,8 @@
 var chocolateBars = [
   'smickers',
-  'mild cheese',
-  'sharp cheese',
-  'butter',
-  'tomato',
-  'garlic'
+  'hundred grand',
+  'kitkat',
+  'skittles'
 ]
 
 var tomatoSauceIngredients = [
