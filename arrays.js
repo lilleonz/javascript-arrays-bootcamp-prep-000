@@ -6,3 +6,11 @@ var grilledCheeseIngredients = [
   'tomato',
   'garlic'
 ]
+
+var tomatoSauceIngredients = [
+  'tomato',
+  'garlic',
+  'olive oil',
+  'basil',
+  'oregano'
+]
